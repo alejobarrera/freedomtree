@@ -1,0 +1,29 @@
+{
+  "name": "01-freedomtree",
+  "version": "1.0.0",
+  "description": "Fredom Tree Web site",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejobarrera/freedomtree.git"
+  },
+  "author": "Alejandro Barrera-Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejobarrera/freedomtree/issues"
+  },
+  "homepage": "https://github.com/alejobarrera/freedomtree#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.2.1",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
